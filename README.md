@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Victormoland
 - 👀 I’m interested in electronics
-- 🌱 I’m currently learning programming and a electronic engineering student
+- 🌱 Analog design engineer 
 - 📫 Email: victor.moland@outlook.com
